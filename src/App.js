@@ -1,10 +1,10 @@
-import React from 'react'
+import React from "react";
 
 /* スタイルシート */
-import './styles/main.css';
+import "./styles/main.css";
 
 /* コンポーネント */
-import Todo from './components/Todo';
+import Todo from "./components/Todo";
 
 function App() {
   return (
